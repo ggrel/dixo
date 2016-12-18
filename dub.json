@@ -1,0 +1,16 @@
+{
+	"name": "dixo",
+	"authors": [
+		"tosuke"
+	],
+	"description": "A static site generator written in D.",
+	"copyright": "Copyright © 2016, ggrel works",
+	"license": "MIT",
+	
+	"dependencies": {
+		"pegged": "~>0.3.3"
+	},
+
+	"targetPath": "bin",
+	"workingDirectory": "bin"
+}

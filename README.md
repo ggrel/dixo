@@ -1,2 +1,2 @@
 # dixo
-Static site generator writeln by D
+Static site generator writeln in D
